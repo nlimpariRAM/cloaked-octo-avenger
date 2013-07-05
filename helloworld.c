@@ -7,5 +7,5 @@ int main(void)
     printf("just dicking with some code\n");
     //i dicked up the newline here
 
-    printf("more dicking around");
+    printf("more dicking around\n");
 }
